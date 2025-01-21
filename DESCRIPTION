@@ -1,7 +1,7 @@
 Package: hcci
 Type: Package
 Title: Interval Estimation of Linear Models with Heteroskedasticity
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: c(person(given = "Pedro Rafael", family = "Diniz Marinho", role =
         c("aut", "cre"), email = "pedro.rafael.marinho@gmail.com"),
         person(given = "Francisco", family = "Cribari Neto", role =
@@ -13,8 +13,7 @@ Author: Pedro Rafael Diniz Marinho [aut, cre],
 License: GPL (>= 3)
 URL: https://github.com/prdm0/hcci
 BugReports: https://github.com/prdm0/hcci/issues
-RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2024-04-01 13:23:03 UTC; prdm0
+Packaged: 2025-01-21 18:37:50 UTC; prdm0
 Repository: CRAN
-Date/Publication: 2024-04-01 15:50:02 UTC
+Date/Publication: 2025-01-21 18:50:02 UTC
